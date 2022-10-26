@@ -137,8 +137,8 @@ input:focus{
 :root {
     --background-color: #36414c;
     --primary-color: #C94A17;
-    --secondary-color: #7574ff;
-    --white-color: #FEFFF0;
+    --secondary-color: #FF4A17;
+    --white-color: #FF4A17;
     --black-color: #000000;
     --gray-color: #888;
 
