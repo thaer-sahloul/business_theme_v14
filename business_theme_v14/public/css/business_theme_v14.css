@@ -276,10 +276,10 @@ symbol#icon-small-down{
 /* Table */
 .form-grid{
     border-radius: 0;
-    border: 1px solid #bbbbbb;
+    border: 1px solid #F5F7F6;
 }
 .form-grid .grid-heading-row{
-    background-color: #FF4A17;
+    background-color: #D9E9ED;
 }
 .grid-heading-row{
     border-bottom: 1px solid var(--primary-color);
