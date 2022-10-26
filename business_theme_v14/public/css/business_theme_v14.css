@@ -53,9 +53,9 @@
 }
 
 [data-theme="light"] {
-    --bg-color: #D3F5FA;
+    --bg-color: #E4F5FA;
     --text-bold: 600;
-    --control-bg : #fff;
+    --control-bg : #F6FFFF;
     --control-bg-on-gray: #d4dcea;
     --disabled-control-bg: #DFF5FA;
     --heading-color: #333;
@@ -64,7 +64,7 @@
     --margin-lg: 15px;
     --sidebar-select-color: #EEF1E9;
     --awesomplete-hover-bg: #d4dcea;
-    --scroll-bg: #EEF1E8;
+    --scroll-bg: #FF4A17;
     --scroll-color: #d9dfe6;
 }
 
