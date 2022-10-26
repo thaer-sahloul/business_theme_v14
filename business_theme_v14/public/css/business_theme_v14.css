@@ -138,7 +138,7 @@ input:focus{
     --background-color: #36414c;
     --primary-color: #C94A17;
     --secondary-color: #7574ff;
-    --white-color: #ffffff;
+    --white-color: #FEFFF0;
     --black-color: #000000;
     --gray-color: #888;
 
@@ -279,7 +279,7 @@ symbol#icon-small-down{
     border: 1px solid #bbbbbb;
 }
 .form-grid .grid-heading-row{
-    background-color: #EDF4F4;
+    background-color: #FF4A17;
 }
 .grid-heading-row{
     border-bottom: 1px solid var(--primary-color);
