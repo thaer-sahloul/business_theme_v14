@@ -138,7 +138,7 @@ input:focus{
     --background-color: #36414c;
     --primary-color: #C94A17;
     --secondary-color: #FF4A17;
-    --white-color: #FF4A17;
+    --white-color: #FEFFF0;
     --black-color: #000000;
     --gray-color: #888;
 
@@ -150,7 +150,7 @@ input:focus{
     box-shadow: none !important;
 }
 .btn-primary{
-    color: #FF4A17 !important;
+    color: #F8F5F3 !important;
     background-color: var(--primary-color) !important;
     border-radius: 0 !important;
 }
@@ -256,7 +256,7 @@ input{
 }
 .form-control{
     transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
-    background-color: #F0F2F2 !important;
+    background-color: #E2F2F2 !important;
 }
 .form-control:focus{
     outline: 0;
@@ -285,10 +285,10 @@ symbol#icon-small-down{
     border-bottom: 1px solid var(--primary-color);
 }
 .grid-row > .row .col{
-    border-right: 1px solid #D8D8DD;
+    border-right: 1px solid #EFD8DD;
 }
 .form-grid .grid-row:hover{
-    background: rgba(255, 74, 23, 1);
+    background: rgba(255, 152, 0, 0.15);
 }
 
 /* Heading Color */
@@ -308,7 +308,7 @@ symbol#icon-small-down{
 
 /* Report Table */
 .datatable .dt-header .dt-cell--header .dt-cell__content{
-    background-color: #EAECEF;
+    background-color: #f4f4f4;
 }
 
 
