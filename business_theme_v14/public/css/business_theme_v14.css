@@ -53,7 +53,7 @@
 }
 
 [data-theme="light"] {
-    --bg-color: #DB4A17;
+    --bg-color: #FFECEC;
     --text-bold: 600;
     --control-bg : #F6FFFF;
     --control-bg-on-gray: #d4dcea;
